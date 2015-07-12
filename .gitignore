@@ -3,3 +3,8 @@
 .omakedb.lock
 OMakefile.omc
 OMakeroot.omc
+*.aux
+*.log
+*.pdf
+*.toc
+*.fls
